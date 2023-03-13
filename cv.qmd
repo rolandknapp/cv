@@ -1,0 +1,194 @@
+---
+format: 
+  pdf: 
+    documentclass: article
+    geometry: 
+      - top=20mm
+      - left=20mm
+      - right=20mm
+      - bottom=20mm
+    fontsize: 12pt
+    colorlinks: true
+    include-in-header: 
+      text: '\pagenumbering{arabic}'
+bibliography: references_knapp.bib
+csl: ecology_edited.csl
+nocite: |
+  @*
+---
+
+<!-- TITLE -->
+
+```{=tex}
+\begin{huge}\begin{center}\textbf{ROLAND A. KNAPP}\end{center}\end{huge}
+\vspace{5pt}
+```
+<!-- CONTACT INFO -->
+
+```{=tex}
+\begin{center}
+\textbf{Sierra Nevada Aquatic Research Laboratory \& \\
+Earth Research Institute, University of California - Santa Barbara} \\
+\vspace{5pt}
+roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesresearch.com} | \href{https://github.com/SNARL1}{GitHub} |  \href{https://orcid.org/0000-0002-1954-2745}{ORCID}
+\end{center}
+\vspace{15pt}
+```
+### RESEARCH INTERESTS
+
+```{=tex}
+\vspace{3pt}
+\hrule
+```
+-   Resistance and resilience of aquatic ecosystems to anthropogenic stressors, in particular, emerging infectious diseases and nonnative species.
+-   Impacts of nonnative species on the structure and function of aquatic ecosystems.
+-   Developing effective strategies to recover endangered amphibians.
+
+### EDUCATION
+
+```{=tex}
+\vspace{3pt}
+\hrule
+\begin{itemize}
+  \begin{minipage}{0.7\linewidth}
+    \item[]University of California - Santa Barbara: \textit{Ph.D. in Biology}
+    \item[]University of California - Santa Barbara: \textit{B.A. in Aquatic Biology}
+  \end{minipage}
+  \begin{minipage}{0.3\linewidth}\begin{flushright}
+    \item[]1992
+    \item[]1986
+  \end{flushright}\end{minipage}
+\end{itemize}
+```
+### ACADEMIC APPOINTMENTS
+
+```{=tex}
+\vspace{3pt}
+\hrule
+\begin{itemize}
+  \begin{minipage}{0.8\linewidth}
+    \item[]Earth Research Institute, UC Santa Barbara: \textit{Research Biologist}
+    \item[]Marine Science Institute, UCSB:  \textit{Research Biologist}
+    \item[]Marine Science Institute, UCSB: \textit{Associate Research Biologist}
+    \item[]Marine Science Institute, UCSB: \textit{Assistant Research Biologist}
+    \item[]Marine Science Institute, UCSB: \textit{Postdoctoral Researcher}
+    \item[]Dept. of Biological Sciences, UCSB: \textit{Lecturer}
+    \item[]Marine Science Institute, UCSB: \textit{Graduate Research Assistant}
+    \item[]Dept. of Biological Sciences, UCSB: \textit{Graduate Teaching Assistant}
+  \end{minipage}
+  \begin{minipage}{0.2\linewidth}\begin{flushright}
+    \item[]2017-present
+    \item[]2009-2017
+    \item[]2004-2009
+    \item[]1993-2004
+    \item[]1992-1993
+    \item[]1991
+    \item[]1989-1991
+    \item[]1989-1991
+  \end{flushright}\end{minipage}
+\end{itemize}
+```
+### HONORS & AWARDS
+
+```{=tex}
+\vspace{3pt}
+\hrule
+\begin{itemize}
+  \begin{minipage}{0.8\linewidth}
+    \item[]UCSB Dissertation Fellowship
+    \item[]UCSB General Affiliates Fellowship
+    \item[]Phi Beta Kappa, UCSB
+  \end{minipage}
+  \begin{minipage}{0.2\linewidth}\begin{flushright}
+    \item[]1991
+    \item[]1989
+    \item[]1986
+  \end{flushright}\end{minipage}
+\end{itemize}
+```
+### PROFESSIONAL ORGANIZATIONS
+
+```{=tex}
+\vspace{3pt}
+\hrule
+\begin{itemize}
+  \item[]Ecological Society of America
+\end{itemize}
+```
+### PROFESSIONAL ACTIVITIES
+
+```{=tex}
+\vspace{3pt}
+\hrule
+```
+**Reviewer**:
+
+-   [Journals]{.underline}: American Naturalist, Amphibia-Reptilia, Animal Behaviour, Animal Conservation, Behavioral Ecology, Biological Conservation, Bulletin of Marine Science, Canadian Journal of Fisheries and Aquatic Sciences, Conservation Biology, Copeia, Diseases of Aquatic Organisms, Diversity and Distributions, Ecography, EcoHealth, Ecological Applications, Ecological Monographs, Ecology, Ecology and Evolution, Ecology Letters, Ecosphere, Ecosystems, Environmental Biology of Fishes, Freshwater Biology, Herpetological Conservation and Biology, Herpetologica, Herpetological Conservation and Biology, Herpetological Review, Journal of Animal Ecology, Journal of Applied Ecology, Journal of Fish Biology, Journal of Herpetology, Journal of Zoology, Limnology and Oceanography, North American Journal of Fisheries Management, New Zealand Journal of Marine and Freshwater Research, Oecologia, PeerJ, PLOS One, Science, Science of the Total Environment, Scientific Report, Transactions of the American Fisheries Society.
+
+-   [National Science Foundation]{.underline}: Grant proposals to the Division of Environmental Biology and Division of Integrative Organismal Systems.
+
+-   [Other agencies]{.underline}: Grant proposals to the Alberta Conservation Association Grants in Biodiversity, Austrian Academy of Sciences -- Earth Systems Sciences.
+
+-   [U.S. Fish and Wildlife Service]{.underline}: Species status assessments for taxa being considered for listing under the U.S. Endangered Species Act, recovery plans for listed species.
+
+**Scientific Advisor:**
+
+-   [Technical Advisory Committee]{.underline} & [Technical Team]{.underline}: Assisted the U.S. Fish and Wildlife Service, U.S. Forest Service, California Department of Fish and Wildlife, and National Park Service in developing a conservation assessment and developing and updating a conservation strategy for the mountain yellow-legged frog (1999-present).
+
+**Consultant:**
+
+-   [Chevron Guadalupe Restoration Project - Garcia and Associates]{.underline}: Analyzed long-term trends in California red-legged frog populations at the Guadalupe Dunes project site (with Maxwell Joseph; 2018-2019).
+-   [California Department of Fish and Wildlife]{.underline}: Developed a species distribution model for mountain yellow-legged frogs using Maxent, for inclusion in a status review of this taxon (2010-2011).
+
+### INVITED SEMINARS AND SYMPOSIA (last 10 years)
+
+```{=tex}
+\vspace{3pt}
+\hrule
+```
+-   '2019' *Natural recovery of endangered frogs in the presence of Bd as a guide for active conservation measures*. Symposium - Mitigating single pathogen and co-infections that threaten amphibian biodiversity. Zoological Society of London, London, UK.
+
+-   
+
+### TEACHING EXPERIENCE
+
+```{=tex}
+\vspace{3pt}
+\hrule
+```
+**Lecturer:** Taught two months of UCSB undergraduate course, *Ethology and Behavioral Ecology* (1991).
+
+**Guest Lecturer:** Provided 1-2 hour lectures in undergraduate and high school courses:
+
+-   UCSB *Introduction to Environmental Studies*: 2014, 2016
+-   UCSB *Ecology and Management of California's Wildlands*: 2005, 2006, 2008, 2010, 2011
+-   University of Redlands *Environmental Chemistry Field Experience*: 2013
+-   Bay School of San Francisco *Water in the West*: 2019, 2022
+
+### GRADUATE STUDENT THESIS COMMITTEES
+
+```{=tex}
+\vspace{3pt}
+\hrule
+```
+-   I have served on Ph.D. and Master's committees of graduate students from UCSB (1), UC Davis (3), UC Riverside (1), and CSU San Francisco (2).
+
+### PUBLICATIONS (peer-reviewed)
+
+```{=tex}
+\vspace{1.5pt}
+\hrule
+\vspace{5pt}
+```
+::: {#refs}
+:::
+
+#### To do
+
+-   Add the following sections:
+
+    -   Extramural Grants
+
+    -   Publications: Peer-reviewed, Proceedings/Reports
+
+    -   Invited Seminars & Symposia
