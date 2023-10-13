@@ -73,8 +73,6 @@ roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesre
     \item[]Marine Science Institute, UCSB: \textit{Assistant Research Biologist}
     \item[]Marine Science Institute, UCSB: \textit{Postdoctoral Researcher}
     \item[]Dept. of Biological Sciences, UCSB: \textit{Lecturer}
-    \item[]Marine Science Institute, UCSB: \textit{Graduate Research Assistant}
-    \item[]Dept. of Biological Sciences, UCSB: \textit{Graduate Teaching Assistant}
   \end{minipage}
   \begin{minipage}{0.2\linewidth}\begin{flushright}
     \item[]2017-present
@@ -83,8 +81,6 @@ roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesre
     \item[]1993-2004
     \item[]1992-1993
     \item[]1991
-    \item[]1989-1991
-    \item[]1989-1991
   \end{flushright}\end{minipage}
 \end{itemize}
 ```
@@ -123,32 +119,23 @@ roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesre
 ```
 **Reviewer**:
 
--   [Journals]{.underline}: American Naturalist, Amphibia-Reptilia, Animal Behaviour, Animal Conservation, Behavioral Ecology, Biological Conservation, Bulletin of Marine Science, Canadian Journal of Fisheries and Aquatic Sciences, Conservation Biology, Copeia, Diseases of Aquatic Organisms, Diversity and Distributions, Ecography, EcoHealth, Ecological Applications, Ecological Monographs, Ecology, Ecology and Evolution, Ecology Letters, Ecosphere, Ecosystems, Environmental Biology of Fishes, Freshwater Biology, Herpetological Conservation and Biology, Herpetologica, Herpetological Conservation and Biology, Herpetological Review, Journal of Animal Ecology, Journal of Applied Ecology, Journal of Fish Biology, Journal of Herpetology, Journal of Zoology, Limnology and Oceanography, North American Journal of Fisheries Management, New Zealand Journal of Marine and Freshwater Research, Oecologia, PeerJ, PLOS One, Science, Science of the Total Environment, Scientific Report, Transactions of the American Fisheries Society.
+-   *Journals*: American Naturalist, Amphibia-Reptilia, Animal Behaviour, Animal Conservation, Behavioral Ecology, Biological Conservation, Bulletin of Marine Science, Canadian Journal of Fisheries and Aquatic Sciences, Conservation Biology, Copeia, Diseases of Aquatic Organisms, Diversity and Distributions, Ecography, EcoHealth, Ecological Applications, Ecological Monographs, Ecology, Ecology and Evolution, Ecology Letters, Ecosphere, Ecosystems, Environmental Biology of Fishes, Freshwater Biology, Herpetological Conservation and Biology, Herpetologica, Herpetological Conservation and Biology, Herpetological Review, Journal of Animal Ecology, Journal of Applied Ecology, Journal of Fish Biology, Journal of Herpetology, Journal of Zoology, Limnology and Oceanography, North American Journal of Fisheries Management, New Zealand Journal of Marine and Freshwater Research, Oecologia, PeerJ, PLOS One, Science, Science of the Total Environment, Scientific Report, Transactions of the American Fisheries Society.
 
--   [National Science Foundation]{.underline}: Grant proposals to the Division of Environmental Biology and Division of Integrative Organismal Systems.
+-   *National Science Foundation*: Grant proposals to the Division of Environmental Biology and Division of Integrative Organismal Systems.
 
--   [Other agencies]{.underline}: Grant proposals to the Alberta Conservation Association Grants in Biodiversity, Austrian Academy of Sciences -- Earth Systems Sciences.
+-   *Other agencies*: Grant proposals to the Alberta Conservation Association Grants in Biodiversity, Austrian Academy of Sciences -- Earth Systems Sciences.
 
--   [U.S. Fish and Wildlife Service]{.underline}: Species status assessments for taxa being considered for listing under the U.S. Endangered Species Act, recovery plans for listed species.
+-   *U.S. Fish and Wildlife Service*: Species status assessments for taxa being considered for listing under the U.S.
+    Endangered Species Act, recovery plans for listed species.
 
 **Scientific Advisor:**
 
--   [Technical Advisory Committee]{.underline} & [Technical Team]{.underline}: Assisted the U.S. Fish and Wildlife Service, U.S. Forest Service, California Department of Fish and Wildlife, and National Park Service in developing a conservation assessment and developing and updating a conservation strategy for the mountain yellow-legged frog (1999-present).
+-   *Technical Advisory Committee* & *Technical Team*: Assisted the U.S. Fish and Wildlife Service, U.S. Forest Service, California Department of Fish and Wildlife, and National Park Service in developing a conservation assessment and developing and updating a conservation strategy for the mountain yellow-legged frog (1999-present).
 
 **Consultant:**
 
--   [Chevron Guadalupe Restoration Project - Garcia and Associates]{.underline}: Analyzed long-term trends in California red-legged frog populations at the Guadalupe Dunes project site (with Maxwell Joseph; 2018-2019).
--   [California Department of Fish and Wildlife]{.underline}: Developed a species distribution model for mountain yellow-legged frogs using Maxent, for inclusion in a status review of this taxon (2010-2011).
-
-### INVITED SEMINARS AND SYMPOSIA (last 10 years)
-
-```{=tex}
-\vspace{3pt}
-\hrule
-```
--   '2019' *Natural recovery of endangered frogs in the presence of Bd as a guide for active conservation measures*. Symposium - Mitigating single pathogen and co-infections that threaten amphibian biodiversity. Zoological Society of London, London, UK.
-
--   
+-   *Chevron Guadalupe Restoration Project - Garcia and Associates*: Analyzed long-term trends in California red-legged frog populations at the Guadalupe Dunes project site (with Maxwell Joseph; 2018-2019).
+-   *California Department of Fish and Wildlife*: Developed a species distribution model for mountain yellow-legged frogs using Maxent, for inclusion in a status review of this taxon (2010-2011).
 
 ### TEACHING EXPERIENCE
 
@@ -163,32 +150,377 @@ roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesre
 -   UCSB *Introduction to Environmental Studies*: 2014, 2016
 -   UCSB *Ecology and Management of California's Wildlands*: 2005, 2006, 2008, 2010, 2011
 -   University of Redlands *Environmental Chemistry Field Experience*: 2013
--   Bay School of San Francisco *Water in the West*: 2019, 2022
+-   Bay School of San Francisco *Water in the West*: 2019, 2022, 2023
 
-### GRADUATE STUDENT THESIS COMMITTEES
+### GRADUATE STUDENT COMMITTEES
 
 ```{=tex}
 \vspace{3pt}
 \hrule
 ```
--   I have served on Ph.D. and Master's committees of graduate students from UCSB (1), UC Davis (3), UC Riverside (1), and CSU San Francisco (2).
+-   I have served on Ph.D. and Master's committees of graduate students from UCSB (1), UC Davis (3), UC Riverside (1), and CSU San Francisco (2).\
+    \
+    \
 
-### PUBLICATIONS (peer-reviewed)
+### EXTRAMURAL GRANTS (selected)
 
 ```{=tex}
 \vspace{1.5pt}
 \hrule
 \vspace{5pt}
 ```
+-   2021-2026.
+    National Science Foundation.
+    \$12,499,323.
+    *BII: Uncovering mechanisms of amphibian resilience to global change from molecules to landscapes* (lead PI C. Richards-Zawaki, co-PIs C. Briggs, J. Voyles).
+
+-   2019-2022.
+    California Dept. of Fish and Wildlife.
+    \$159,666.
+    *Using frog translocations and reintroductions to recover frogs in the Rocky Basin Lakes, Inyo National Forest* (lead PI R. Knapp, co-PI T. Smith).
+
+-   2018-2022.
+    National Park Service.
+    \$96,602.
+    *Restoring genetic diversity of endangered mountain yellow-legged frogs* (lead PI R. Knapp, co-PI T. Smith).
+
+-   2018-2019.
+    Yosemite Conservancy.
+    \$105,772.
+    *Restoring rare frogs in Yosemite National Park (*lead PI R. Knapp).
+
+-   2017-2019.
+    National Park Service.
+    \$70,500.
+    *Critical restoration efforts needed to recover endangered mountain yellow-legged frogs in Sequoia and Kings Canyon National Park* (lead PI R. Knapp).
+
+-   2016-2021.
+    National Science Foundation.
+    \$225,747.
+    *Collaborative Research: Long-term dynamics of amphibian populations following disease-drive declines* (lead PI C. Briggs, co-PIs R. Knapp, E. Rosenblum).
+
+-   2016-2019.
+    California Department of Fish and Wildlife.
+    \$195,000.
+    *Three important conservation actions to recover* Rana sierrae *in the northern Sierra Nevada* (lead PI R. Knapp).
+
+-   2016-2019.
+    U.S.
+    Geological Survey.
+    \$142,733.
+    *Understanding and ameliorating predation on reintroduced mountain yellow-legged frogs by terrestrial gartersnakes in the Sierra Nevada* (lead PI R. Knapp, co-PI Brian Halstead).
+
+-   2015-2018.
+    U.S.
+    Fish and Wildlife Service.
+    \$140,000.
+    T*reatment and prevention by Bd in two species of mountain yellow-legged frogs* (lead PI R. Knapp, co-PI D. Boiano).
+
+-   2015-2018.
+    National Science Foundation.
+    \$600,000.
+    *Collaborative Research: Linking causes of variation in the amphibian skin microbiome with consequences for disease risk* (lead PI: A. Jani, co-PI C. Briggs).
+
+-   2015-2018.
+    National Park Service.
+    \$290,745.
+    *Restoring rare frogs in Yosemite National Park* (lead PI R. Knapp).
+
+-   2014-2016.
+    State Water Resources Control Board.
+    \$295,200.
+    *Microbial source tracking at bacteria-impaired waters of the Lahontan region* (lead PI R. Knapp, co-PI C. Nelson).
+
+-   2012-2015.
+    State Water Resources Control Board.
+    \$230,000.
+    *Microbial indicators of water quality in the Lahontan Region of California* (lead PI C. Nelson, co-PI R. Knapp).
+
+-   2013-2015.
+    U.S.
+    Geological Survey.
+    \$210,000.
+    *Factors influencing reintroduction success of the endangered mountain yellow-legged frog* (PI M. Brooks, co-PI R. Knapp).
+
+-   2013-2014.
+    National Park Service.
+    \$50,000.
+    *Sierra Nevada yellow-legged frog genetic analysis for Yosemite National Park* (lead PI R. Knapp, co-PI E. Rosenblum).
+
+-   2012-2015.
+    USDA Forest Service-Pacific Southwest Research Station.
+    \$275,003.
+    *Effectiveness of reintroductions and probiotic treatment as tools to restore the endangered Sierra Nevada yellow-legged frog* (Rana sierrae) *to the Lake Tahoe Basin*.
+    (lead PI R. Knapp, co-PI: V. Vredenburg).
+
+-   2012-2014.
+    National Science Foundation.
+    \$181,776.
+    *Collaborative research: Testing intervention strategies to change the outcome of disease-caused mass mortality events in a declining amphibian* (lead PI R. Knapp, co-PI).
+
+-   2012-2013.
+    National Park Service.
+    \$116,146.
+    *Preventing the extirpation of mountain yellow-legged frog populations in Sequoia and Kings Canyon National Parks* (lead PI R. Knapp).
+
+-   2007-2012.
+    National Science Foundation.
+    \$2,500,000.
+    *Collaborative Research: After the crash: factors allowing host persistence following outbreaks of a highly virulent disease*.
+    (lead PI C. Briggs, co-PIs R. Knapp, E. Rosenblum, V. Vredenburg).
+
+-   2007-2008.
+    Yosemite Fund.
+    \$50,000.
+    *Hidden biodiversity in Yosemite's lakes and ponds* (lead PI R. Knapp).
+
+-   2005-2007.
+    Environmental Protection Agency.
+    \$251,583.
+    Evaluation of reference site classification schemes, probability-based survey designs, biological indicators, biotic tolerance values, and the comparability of different sampling methods for western lakes and ponds (lead PI C. Hawkins, co-PIs R. Knapp, M. Vinson)
+
+-   2005-2008.
+    National Park Service.
+    \$135,941.
+    *A proposal to reintroduce* Rana muscosa *to fishless lakes in Yosemite National Park* (lead PI R. Knapp).
+
+-   2004-2006.
+    Wildspaces Foundation.
+    \$50,000.
+    *Impacts of nonnative trout on alpine-nesting birds in the Sierra Nevada* (lead PI R. Knapp).
+
+-   2004-2005.
+    National Park Service.
+    \$100,000.
+    *Amphibian resurvey of select lakes in Sequoia-Kings Canyon National Park* (lead PI R. Knapp).
+
+-   2002-2007.
+    National Institutes of Health.
+    \$2,484,295.
+    *Amphibian disease dynamics in a fragmented landscape* (lead PI: C. Briggs, co-PIs C. Moritz, R. Knapp).
+
+-   2002-2005.
+    Environmental Protection Agency.
+    \$214,848.
+    *Airborne agricultural contaminants, disease, and amphibian declines: using landscape-scale patterns to evaluate the severity of an emerging environmental problem* (lead PI C. Davidson, co-PI R. Knapp).
+
+-   2000-2005.
+    National Science Foundation.
+    \$350,000.
+    *Collaborative Research: Recovery of ecosystem structure and function following exotic species eradication* (lead PI R. Knapp, co-PI O. Sarnelle).
+
+-   2000-2003.
+    Yosemite Fund.
+    \$376,250.
+    *Faunal surveys of Yosemite National Park's lentic habitats and their use in understanding impacts of nonnative fish and designing aquatic restoration measures* (lead PI R. Knapp).
+
+-   2000-2002.
+    Wildspaces Foundation.
+    \$55,000.
+    *Restoration of alpine lakes in the Sierra Nevada following removal of nonnative trout* (lead PI R. Knapp).
+
+-   1999-2002.
+    Environmental Protection Agency and National Park Service.
+    \$208,316.
+    *Analysis of natural and anthropogenic factors in controlling the distribution of amphibians in the alpine Sierra Nevada* (lead PI R. Knapp).
+
+-   1996-2000.
+    National Science Foundation.
+    \$300,000.
+    *Effects of exotic species eradication on the recovery of ecosystem structure and function* (lead PI R. Knapp, co-PI O. Sarnelle).
+
+-   1995-1996.
+    U.S.
+    Environmental Protection Agency.
+    \$80,231.
+    *Evaluation of rangeland stream condition and recovery using physical and biological assessments of non-point source pollution* (lead PI R. Knapp, co-PI D. Herbst).
+
+-   1995-1999.
+    U.S.
+    Dept. of Agriculture.
+    \$637,334.
+    The distribution of non-native trout in the Sierra Nevada and their impacts on aquatic ecosystems (lead PI R. Knapp, co-PI R. Jellison).
+
+-   1992-1994.
+    U.S.
+    Dept. of Agriculture.
+    \$55,000.
+    *Golden trout ecology and the influence of livestock grazing on streams in the Golden Trout Wilderness* (lead PI R. Knapp).
+
+### PUBLICATIONS (peer-reviewed - [Google Scholar profile](https://scholar.google.com/citations?user=mJNZ8hkAAAAJ&hl=en))
+
+```{=tex}
+\vspace{1.5pt}
+\hrule
+\vspace{10pt}
+```
 ::: {#refs}
 :::
 
-#### To do
+### INVITED SEMINARS AND SYMPOSIA (selected)
 
--   Add the following sections:
+```{=tex}
+\vspace{3pt}
+\hrule
+\vspace{5pt}
+```
+-   2019\.
+    *Natural recovery of endangered frogs in the presence of Bd as a guide for active conservation measures*.
+    Symposium: Mitigating single pathogen and co-infections that threaten amphibian biodiversity.
+    Zoological Society of London, London, UK.
 
-    -   Extramural Grants
+-   2019\.
+    *Recovering endangered amphibians in the presence of a recently-emerged disease*.
+    Dept. of Ecology and Evolutionary Biology, University of Colorado, Boulder.
 
-    -   Publications: Peer-reviewed, Proceedings/Reports
+-   2017\.
+    *Local and watershed-scale effects of fish eradication from lakes in California's Sierra Nevada*.
+    International Meeting on the Conservation of High Mountain Lakes.
+    Gran Paradiso National Park, Italy.
 
-    -   Invited Seminars & Symposia
+-   2017\.
+    *Recovering the endangered mountain yellow-legged frog in the Sierra Nevada*.
+    Public seminar series, Tahoe Environmental Research Center, Incline Village, Nevada.
+
+-   2013\.
+    *Causes of amphibian population extinction versus persistence following disease-caused mass mortality events*.
+    Dept. of Ecology, Behavior, and Evolution, University of California, San Diego.
+
+-   2012\.
+    *Causes of amphibian population extinction versus persistence following disease-caused mass mortality events*.
+    Dept. of Ecology, Evolution, and Conservation Biology, University of Nevada, Reno.
+
+-   2012\.
+    *Reversing the decline of mountain yellow-legged frogs: current knowledge and future research*.
+    Yosemite Forum, Yosemite National Park, California.
+
+-   2011\.
+    *Chytridiomycosis: Impacts to amphibian populations and conservation implications*.
+    Symposium: Fungal diseases.
+    The Wildlife Society - Western Section, Riverside, California.
+
+-   2011\.
+    *Fungal diseases in amphibians*.
+    Symposium: Amphibian diseases.
+    Partners in Amphibian and Reptile Conservation - Northwest Chapter , Gig Harbor, Washington.
+
+-   2011\.
+    *Challenges for species recovery in an age of multiple stressors: the mountain yellow-legged frog example*.
+    Webinar: Perspectives on extinction.
+    U.S.
+    Fish and Wildlife Service National Conservation Training Center, Shepherdstown, West Virginia.
+
+-   2011\.
+    *Impacts of nonnative trout on mountain ecosystems: thinking outside of the lak*e.
+    Dept. of Watershed Sciences, Utah State University, Logan, Utah.
+
+-   2011\.
+    *Causes of amphibian population extinction versus persistence following disease-related mass mortality events*.
+    Dept. of Watershed Sciences, Utah State University, Logan, Utah.
+
+-   2010\.
+    *Fish stocking impacts to Sierra Nevada ecosystems: promise and peril of policy-relevant science*.
+    Dept. of Ecology, Evolution, and Marine Biology, University of California, Santa Barbara.
+
+-   2010\.
+    *Causes of amphibian population extinction versus persistence following disease-related mass mortality events*.
+    Scripps Institute of Oceanography, University of California, San Diego.
+
+-   2010\.
+    *Changing the outcome of Bd epizootics using field anti-fungal treatments: does it work?* International meeting on Bd mitigation, University of Zurich, Switzerland.
+
+-   2010\.
+    *Impacts of nonnative fish on mountain ecosystems: thinking outside of the lake*.
+    Webinar: Mountain lakes management and research.
+    U.S.
+    Fish and Wildlife Service National Conservation Training Center, Shepherdstown, West Virginia.
+
+-   2010\.
+    *Fish stocking impacts to Sierra Nevada ecosystems: promise and peril of policy-relevant science*.
+    Keynote address, Graduate Student Symposium, Graduate Group in Ecology, University of California, Davis.
+
+-   2007\.
+    *Recovery of mountain lake ecosystems following the removal of nonnative fish*.
+    Dept. of Ecology and Evolutionary Biology, University of California, Santa Cruz.
+
+-   2006\.
+    *Restoration of lake ecosystems -- does Humpty Dumpty reassemble spontaneously or does reassembly require tape and glue?* Graduate Group in Ecology, University of California, Davis.
+
+-   2006\.
+    *Restoration of lake ecosystems -- does Humpty Dumpty reassemble spontaneously or does reassembly require tape and glue?* Dept. of Ecology and Environmental Sciences, University of Maine, Orono.
+
+-   2006\.
+    *Restoration of lake ecosystems -- does Humpty Dumpty reassemble spontaneously or does reassembly require tape and glue?* Natural Reserve System Advisory Committee, University of California Office of the President, Oakland.
+
+-   2005\.
+    *Turning back the clock: restoring lake ecosystems by eradicating introduced fish.* Symposium: New Currents in Conserving Freshwater Systems.
+    American Museum of Natural History -- Center for Biodiversity and Conservation, New York, New York.
+
+-   2005\.
+    *Sierra Nevada lakes: A natural history tour of an unknown underwater world*.
+    Parsons Memorial Lodge Summer Seminar Series, Yosemite National Park, California.
+
+-   2005\.
+    *Recovery of mountain lake ecosystems following the removal of nonnative trout*.
+    California Academy of Sciences, San Francisco, California.
+
+-   2004\.
+    *Does species-level conservation help or hinder ecosystem restoration efforts?: An unfinished story of declining amphibians, conflicting mandates, and unforeseen consequences*.
+    Plenary presentation, Bay Area Conservation Biology Symposium, University of California, Davis.
+
+-   2004\.
+    *Resistance and resilience of lake-dwelling fauna to fish introductions: a predictive modeling approach*.
+    Symposium: Resistance, Resilience, and Multiple Stable States: Defining Endpoints and Recovery Pathways for Damaged Ecosystems.
+    Ecological Society of America annual meeting, Portland, Oregon.
+
+-   2003\.
+    *Perturbation and recovery of aquatic fauna in mountain lakes following fish introduction and disappearance*.
+    Dept. of Natural Resouce Ecology and Management, Oklahoma State University, Stillwater.
+
+-   2002\.
+    *Nonnative species introductions and the reversibility of amphibian declines in the Sierra Nevada*.
+    Dept. of Biology, Fresno State University, California.
+
+-   2002 *Nonnative species introductions and the reversibility of amphibian declines in the Sierra Nevada*.
+    Dept. of Biology, Utah State University, Logan.
+
+-   2002\.
+    *Nonnative species introductions and the reversibility of amphibian declines in the Sierra Nevada*.
+    Sierra Nevada Science Symposium, Kings Beach, North Lake Tahoe.
+
+-   2001\.
+    *Nonnative species introductions and the reversibility of amphibian declines in the Sierra Nevada*.
+    Dept. of Ecology, Evolution, and Conservation Biology, University of Nevada, Reno.
+
+-   2000\.
+    *Resistance and resilience of alpine lake fauna to fish introductions*.
+    Dept. of Ecology and Evolution, University of Chicago, Chicago, Illinois.
+
+-   1999\.
+    *Removal of introduced trout from Sierra Nevada lakes to restore amphibian habitat*.
+    Symposium: Ecosystem Restoration -- a Practitioners Workshop.
+    The Wildlife Society, Oregon Chapter, Portland, Oregon.
+
+-   1999\.
+    *Design and implementation of aquatic reserves to restore amphibian populations impacted by introduced fishes*.
+    Ecosystem Conservation Workshop: Managing for Conservation.
+    U.S. Fish and Wildlife Service, National Conservation Training Center.
+
+-   1999\.
+    *Resistance and resilience of amphibian populations in the Sierra Nevada to fish introductions: are declines reversible?* Dept. of Ecology, Evolution, and Marine Biology, University of California, Santa Barbara.
+
+-   1998\.
+    *Developing a watershed-based reserve system for native aquatic species in the Sierra Nevada, California*.
+    Symposium: Effects of Fisheries Management on the Amphibians and Other Biota of Wilderness Lakes, Flathead Lake Biological Station, Polson, Montana.
+
+-   1996\.
+    *Introduced trout and the decline of the mountain yellow-legged frog in the Sierra Nevada, California*.
+    Dept. of Wildlife, Fish, and Conservation Biology, University of California, Davis.
+
+-   1993\.
+    *Female mate choice in the bicolor damselfish*, Stegastes partitus.
+    University of Sydney, Australia.
+
+-   1993\.
+    *Female mate choice in the bicolor damselfish*, Stegastes partitus.
+    Dept. of Integrative Biology, University of California, Berkeley.
