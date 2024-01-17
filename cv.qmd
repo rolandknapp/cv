@@ -166,9 +166,8 @@ roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesre
 ### EXTRAMURAL GRANTS (selected)
 
 ```{=tex}
-\vspace{1.5pt}
+\vspace{3pt}
 \hrule
-\vspace{5pt}
 ```
 -   2021-2026.
     National Science Foundation.
@@ -188,7 +187,7 @@ roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesre
 -   2018-2019.
     Yosemite Conservancy.
     \$105,772.
-    *Restoring rare frogs in Yosemite National Park (*lead PI R. Knapp).
+    *Restoring rare frogs in Yosemite National Park* (lead PI R. Knapp).
 
 -   2017-2019.
     National Park Service.
@@ -257,7 +256,7 @@ roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesre
 -   2012-2014.
     National Science Foundation.
     \$181,776.
-    *Collaborative research: Testing intervention strategies to change the outcome of disease-caused mass mortality events in a declining amphibian* (lead PI R. Knapp, co-PI).
+    *Collaborative research: Testing intervention strategies to change the outcome of disease-caused mass mortality events in a declining amphibian* (lead PI R. Knapp, co-PI C. Briggs).
 
 -   2012-2013.
     National Park Service.
@@ -353,9 +352,9 @@ roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesre
 ### [Google Scholar profile](https://scholar.google.com/citations?user=mJNZ8hkAAAAJ&hl=en)
 
 ```{=tex}
-\vspace{5pt}
+\vspace{3pt}
 \hrule
-\vspace{10pt}
+\vspace{5pt}
 ```
 ::: {#refs}
 :::
@@ -365,7 +364,6 @@ roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesre
 ```{=tex}
 \vspace{3pt}
 \hrule
-\vspace{5pt}
 ```
 -   2019\.
     *Natural recovery of endangered frogs in the presence of Bd as a guide for active conservation measures*.
