@@ -168,7 +168,7 @@
       </group>
     </layout>
   </citation>
-  <bibliography hanging-indent="true" entry-spacing="0" line-spacing="2">
+  <bibliography hanging-indent="true" entry-spacing="0" line-spacing="2" second-field-align="margin">
     <sort>
       <key variable="issued" sort="descending"/>
       <key macro="author"/>

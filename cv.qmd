@@ -84,6 +84,19 @@ roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesre
   \end{flushright}\end{minipage}
 \end{itemize}
 ```
+### RECENT MEDIA
+
+```{=tex}
+\vspace{3pt}
+\hrule
+```
+-   New Scientist, 10 January 2024.
+    [California frog reintroduction is rare victory against fungal pandemic](https://www.newscientist.com/article/2411673-california-frog-reintroduction-is-rare-victory-against-fungal-pandemic/) ([PDF version](https://u.pcloud.link/publink/show?code=XZkrJ50Zl2gqwMXghpLDHd3W3S3DQXfQDiak)).
+
+-   Earthjustice, 15 December 2023.
+    [How our fight for 4 species helped save the Sierra Nevada](https://u.pcloud.link/publink/show?code=kZ4iJ50Z0wA2O5wGMApVAfHK3xeSgJJA2rW7).
+    Also published in Earthjustice quarterly magazine, winter 2023.
+
 ### HONORS & AWARDS
 
 ```{=tex}
@@ -111,6 +124,9 @@ roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesre
   \item[]Ecological Society of America
 \end{itemize}
 ```
+
+\
+
 ### PROFESSIONAL ACTIVITIES
 
 ```{=tex}
@@ -160,8 +176,6 @@ roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesre
 \hrule
 ```
 -   I have served on Ph.D. and Master's committees of graduate students from UCSB (1), UC Davis (3), UC Riverside (1), and CSU San Francisco (2).\
-    \
-    \
 
 ### EXTRAMURAL GRANTS (selected)
 
