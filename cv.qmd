@@ -19,13 +19,11 @@ nocite: |
 
 <!-- TITLE -->
 
-```{=tex}
 \begin{huge}\begin{center}\textbf{ROLAND A. KNAPP}\end{center}\end{huge}
 \vspace{5pt}
-```
+
 <!-- CONTACT INFO -->
 
-```{=tex}
 \begin{center}
 \textbf{Sierra Nevada Aquatic Research Laboratory \& \\
 Earth Research Institute, University of California - Santa Barbara} \\
@@ -33,20 +31,18 @@ Earth Research Institute, University of California - Santa Barbara} \\
 roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesresearch.com} | \href{https://github.com/SNARL1}{GitHub} |  \href{https://orcid.org/0000-0002-1954-2745}{ORCID}
 \end{center}
 \vspace{15pt}
-```
+
 ### RESEARCH INTERESTS
 
-```{=tex}
 \vspace{3pt}
 \hrule
-```
+
 -   Resistance and resilience of aquatic ecosystems to anthropogenic stressors, in particular, emerging infectious diseases and nonnative species.
 -   Impacts of nonnative species on the structure and function of aquatic ecosystems.
 -   Developing effective strategies to recover endangered amphibians.
 
 ### EDUCATION
 
-```{=tex}
 \vspace{3pt}
 \hrule
 \begin{itemize}
@@ -59,10 +55,9 @@ roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesre
     \item[]1986
   \end{flushright}\end{minipage}
 \end{itemize}
-```
+
 ### ACADEMIC APPOINTMENTS
 
-```{=tex}
 \vspace{3pt}
 \hrule
 \begin{itemize}
@@ -83,13 +78,12 @@ roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesre
     \item[]1991
   \end{flushright}\end{minipage}
 \end{itemize}
-```
+
 ### RECENT MEDIA
 
-```{=tex}
 \vspace{3pt}
 \hrule
-```
+
 -   New Scientist, 10 January 2024.
     [California frog reintroduction is rare victory against fungal pandemic](https://www.newscientist.com/article/2411673-california-frog-reintroduction-is-rare-victory-against-fungal-pandemic/) ([PDF version](https://u.pcloud.link/publink/show?code=XZkrJ50Zl2gqwMXghpLDHd3W3S3DQXfQDiak)).
 
@@ -98,7 +92,6 @@ roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesre
 
 ### HONORS & AWARDS
 
-```{=tex}
 \vspace{3pt}
 \hrule
 \begin{itemize}
@@ -113,25 +106,22 @@ roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesre
     \item[]1986
   \end{flushright}\end{minipage}
 \end{itemize}
-```
+
 ### PROFESSIONAL ORGANIZATIONS
 
-```{=tex}
 \vspace{3pt}
 \hrule
 \begin{itemize}
   \item[]Ecological Society of America
 \end{itemize}
-```
 
 \
 
 ### PROFESSIONAL ACTIVITIES
 
-```{=tex}
 \vspace{3pt}
 \hrule
-```
+
 **Reviewer**:
 
 -   *Journals*: American Naturalist, Amphibia-Reptilia, Animal Behaviour, Animal Conservation, Behavioral Ecology, Biological Conservation, Bulletin of Marine Science, Canadian Journal of Fisheries and Aquatic Sciences, Conservation Biology, Conservation Physiology, Copeia, Diseases of Aquatic Organisms, Diversity and Distributions, Ecography, EcoHealth, Ecological Applications, Ecological Monographs, Ecology, Ecology and Evolution, Ecology Letters, Ecosphere, Ecosystems, Environmental Biology of Fishes, Freshwater Biology, Herpetological Conservation and Biology, Herpetologica, Herpetological Conservation and Biology, Herpetological Review, Journal of Animal Ecology, Journal of Applied Ecology, Journal of Fish Biology, Journal of Herpetology, Journal of Zoology, Limnology and Oceanography, North American Journal of Fisheries Management, New Zealand Journal of Marine and Freshwater Research, Oecologia, PeerJ, PLOS One, Science, Science of the Total Environment, Scientific Report, Transactions of the American Fisheries Society.
@@ -155,10 +145,9 @@ roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesre
 
 ### TEACHING EXPERIENCE
 
-```{=tex}
 \vspace{3pt}
 \hrule
-```
+
 **Lecturer:** Taught two months of UCSB undergraduate course, *Ethology and Behavioral Ecology* (1991).
 
 **Guest Lecturer:** Provided 1-2 hour lectures in undergraduate and high school courses:
@@ -170,18 +159,16 @@ roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesre
 
 ### GRADUATE STUDENT COMMITTEES
 
-```{=tex}
 \vspace{3pt}
 \hrule
-```
+
 -   I have served on Ph.D. and Master's committees of graduate students from UCSB (1), UC Davis (3), UC Riverside (1), and CSU San Francisco (2).\
 
 ### EXTRAMURAL GRANTS (selected)
 
-```{=tex}
 \vspace{3pt}
 \hrule
-```
+
 -   2021-2026.
     National Science Foundation.
     \$12,499,323.
@@ -364,20 +351,18 @@ roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesre
 
 ### [Google Scholar profile](https://scholar.google.com/citations?user=mJNZ8hkAAAAJ&hl=en)
 
-```{=tex}
 \vspace{3pt}
 \hrule
 \vspace{5pt}
-```
+
 ::: {#refs}
 :::
 
 ### INVITED SEMINARS AND SYMPOSIA (selected)
 
-```{=tex}
 \vspace{3pt}
 \hrule
-```
+
 -   2024\.
     *Reintroduction of resistant frogs facilitates landscape-scale recovery in the presence of a lethal fungal disease*.
     Sierra Nevada Science Symposium, University of California, Merced.
