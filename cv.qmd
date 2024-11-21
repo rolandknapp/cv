@@ -84,11 +84,14 @@ roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesre
 \vspace{3pt}
 \hrule
 
+-   USA Today, 16 November 2024. ['The lakes are alive again': These frogs are back from near extinction](https://www.usatoday.com/story/news/nation/2024/11/16/frog-species-brought-back-yosemite-national-park/76331174007/)
+
+-   San Francisco Chronicle, 14 November 2024. [In Yosemite, a remarkable wildlife comeback story](https://www.sfchronicle.com/california/article/yosemite-frog-comeback-19917307.php)
+
+-   Science News, 08 August 2024. [A frog's story of surviving a fungal pandemic offers hope for other species](https://www.sciencenews.org/article/frog-survive-fungal-pandemic-bd-fungus)
+
 -   New Scientist, 10 January 2024.
     [California frog reintroduction is rare victory against fungal pandemic](https://www.newscientist.com/article/2411673-california-frog-reintroduction-is-rare-victory-against-fungal-pandemic/) ([PDF version](https://u.pcloud.link/publink/show?code=XZkrJ50Zl2gqwMXghpLDHd3W3S3DQXfQDiak)).
-
--   Earthjustice magazine, Winter 2023.
-    [From seed to sprout: A decades-long fight for four imperiled species - and an entire landscape - is nearly complete](https://u.pcloud.link/publink/show?code=XZQW950ZjpoYHorEsMmoVRg0CUFzqBjSXAWk).
 
 ### HONORS & AWARDS
 
@@ -114,8 +117,6 @@ roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesre
 \begin{itemize}
   \item[]Ecological Society of America
 \end{itemize}
-
-\
 
 ### PROFESSIONAL ACTIVITIES
 
@@ -150,12 +151,14 @@ roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesre
 
 **Lecturer:** Taught two months of UCSB undergraduate course, *Ethology and Behavioral Ecology* (1991).
 
+\
+
 **Guest Lecturer:** Provided 1-2 hour lectures in undergraduate and high school courses:
 
 -   UCSB *Ecology and Management of California's Wildlands*: 2005, 2006, 2008, 2010, 2011
 -   UCSB *Introduction to Environmental Studies*: 2014, 2016, 2023
 -   University of Redlands *Environmental Chemistry Field Experience*: 2013
--   Bay School of San Francisco *Water in the West*: 2019, 2022, 2023
+-   Bay School of San Francisco *Water in the West*: 2019, 2022, 2023, 2024
 
 ### GRADUATE STUDENT COMMITTEES
 
@@ -347,9 +350,7 @@ roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesre
     \$55,000.
     *Golden trout ecology and the influence of livestock grazing on streams in the Golden Trout Wilderness* (lead PI R. Knapp).
 
-### PUBLICATIONS (peer-reviewed)
-
-### [Google Scholar profile](https://scholar.google.com/citations?user=mJNZ8hkAAAAJ&hl=en)
+### PUBLICATIONS (peer-reviewed; [Google Scholar profile](https://scholar.google.com/citations?user=mJNZ8hkAAAAJ&hl=en))
 
 \vspace{3pt}
 \hrule
