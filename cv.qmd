@@ -157,6 +157,8 @@ roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesre
 
 -   UCSB *Ecology and Management of California's Wildlands*: 2005, 2006, 2008, 2010, 2011
 -   UCSB *Introduction to Environmental Studies*: 2014, 2016, 2023
+-   UCSB *Aquatic Ecology Seminar*: 2023, 2024
+-   UCSB *Vertebrate Zoology*: 2023, 2024
 -   University of Redlands *Environmental Chemistry Field Experience*: 2013
 -   Bay School of San Francisco *Water in the West*: 2019, 2022, 2023, 2024
 
@@ -363,6 +365,8 @@ roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesre
 
 \vspace{3pt}
 \hrule
+
+-   2024\. *Endangered amphibians in the Anthropocene: multiple stressors, host evolution, and a rare recovery*. Dept. of Ecology, Evolution, and Marine Biology, University of California, Santa Barbara. 
 
 -   2024\.
     *Reintroduction of resistant frogs facilitates landscape-scale recovery in the presence of a lethal fungal disease*.
