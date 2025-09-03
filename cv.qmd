@@ -84,6 +84,8 @@ roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesre
 \vspace{3pt}
 \hrule
 
+-   Science News Explores, 30 June 2025. [Analyze This: Moving frogs to new places helped an endangered species spread](https://www.snexplores.org/article/frog-reintroduction-chytrid-sierra)
+
 -   Longreads, 29 May 2025. [The fish that climbed a mountain](https://longreads.com/2025/05/29/fishing-national-park-wildlife-recreation/)
 
 -   BBC Wildlife Magazine, 21 November 2024. [A long-lost sound has returned to the great mountains of Yosemite National Park](https://www.discoverwildlife.com/animal-facts/amphibians/yellow-legged-frog-yosemite)
