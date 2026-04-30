@@ -1,0 +1,136 @@
+---
+format:
+  pdf:
+    documentclass: article
+    geometry:
+      - top=18mm
+      - left=18mm
+      - right=18mm
+      - bottom=18mm
+    fontsize: 11pt
+    colorlinks: true
+    include-in-header:
+      text: |
+        \pagenumbering{arabic}
+        \usepackage{enumitem}
+        \setlist[itemize]{noitemsep, topsep=2pt, parsep=0pt, partopsep=0pt}
+bibliography: references_resume_knapp.bib
+csl: ecology_edited.csl
+nocite: |
+  @*   
+---
+
+<!-- TITLE -->
+
+\begin{huge}\begin{center}\textbf{ROLAND A. KNAPP}\end{center}\end{huge}
+\vspace{4pt}
+
+<!-- CONTACT INFO -->
+
+\begin{center}
+\textbf{Sierra Nevada Aquatic Research Laboratory \& \\
+Earth Research Institute, University of California -- Santa Barbara} \\
+\vspace{3pt}
+roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesresearch.com} | \href{https://github.com/SNARL1}{GitHub} | \href{https://orcid.org/0000-0002-1954-2745}{ORCID} | \href{https://scholar.google.com/citations?user=mJNZ8hkAAAAJ&hl=en}{Google Scholar}
+\end{center}
+\vspace{10pt}
+
+### RESEARCH INTERESTS
+
+\vspace{2pt}
+\hrule
+\vspace{4pt}
+
+- Resistance and resilience of aquatic ecosystems to anthropogenic stressors, particularly emerging infectious diseases and nonnative species.
+- Impacts of nonnative species on the structure and function of aquatic ecosystems.
+- Developing effective strategies to recover endangered amphibians.
+
+### EDUCATION
+
+\vspace{2pt}
+\hrule
+\begin{itemize}[noitemsep, topsep=4pt]
+  \begin{minipage}{0.72\linewidth}
+    \item[]University of California -- Santa Barbara: \textit{Ph.D. in Biology}
+    \item[]University of California -- Santa Barbara: \textit{B.A. in Aquatic Biology}
+  \end{minipage}
+  \begin{minipage}{0.28\linewidth}\begin{flushright}
+    \item[]1992
+    \item[]1986
+  \end{flushright}\end{minipage}
+\end{itemize}
+
+### ACADEMIC APPOINTMENTS
+
+\vspace{2pt}
+\hrule
+\begin{itemize}[noitemsep, topsep=4pt]
+  \begin{minipage}{0.78\linewidth}
+    \item[]Earth Research Institute, UC Santa Barbara: \textit{Research Biologist}
+    \item[]Marine Science Institute, UCSB: \textit{Research Biologist}
+    \item[]Marine Science Institute, UCSB: \textit{Associate Research Biologist}
+    \item[]Marine Science Institute, UCSB: \textit{Assistant Research Biologist}
+    \item[]Marine Science Institute, UCSB: \textit{Postdoctoral Researcher}
+  \end{minipage}
+  \begin{minipage}{0.22\linewidth}\begin{flushright}
+    \item[]2017--present
+    \item[]2009--2017
+    \item[]2004--2009
+    \item[]1993--2004
+    \item[]1992--1993
+  \end{flushright}\end{minipage}
+\end{itemize}
+
+### RECENT MEDIA (selected)
+
+\vspace{2pt}
+\hrule
+\vspace{4pt}
+
+- *Science News Explores*, 30 June 2025. [Analyze This: Moving frogs to new places helped an endangered species spread](https://www.snexplores.org/article/frog-reintroduction-chytrid-sierra)
+- *Longreads*, 29 May 2025. [The fish that climbed a mountain](https://longreads.com/2025/05/29/fishing-national-park-wildlife-recreation/)
+- *BBC Wildlife Magazine*, 21 November 2024. [A long-lost sound has returned to the great mountains of Yosemite](https://www.discoverwildlife.com/animal-facts/amphibians/yellow-legged-frog-yosemite)
+- *USA Today*, 16 November 2024. ['The lakes are alive again': These frogs are back from near extinction](https://www.usatoday.com/story/news/nation/2024/11/16/frog-species-brought-back-yosemite-national-park/76331174007/)
+- *Science News*, 08 August 2024. [A frog's story of surviving a fungal pandemic offers hope for other species](https://www.sciencenews.org/article/frog-survive-fungal-pandemic-bd-fungus)
+- *New Scientist*, 10 January 2024. [California frog reintroduction is rare victory against fungal pandemic](https://www.newscientist.com/article/2411673-california-frog-reintroduction-is-rare-victory-against-fungal-pandemic/)
+
+### SELECTED PUBLICATIONS (from 81 peer-reviewed papers; [Google Scholar profile](https://scholar.google.com/citations?user=mJNZ8hkAAAAJ&hl=en))
+
+\vspace{2pt}
+\hrule
+\vspace{4pt}
+
+::: {#refs}
+:::
+
+### SELECTED EXTRAMURAL GRANTS
+
+\vspace{2pt}
+\hrule
+\vspace{4pt}
+
+- 2021--2026. National Science Foundation. \$12,499,323. *BII: Uncovering mechanisms of amphibian resilience to global change from molecules to landscapes* (lead PI C. Richards-Zawacki; Senior Personnel **R. Knapp**).
+
+- 2007--2012. National Science Foundation. \$2,500,000. *Collaborative Research: After the crash: factors allowing host persistence following outbreaks of a highly virulent disease* (lead PI C. Briggs, co-PI **R. Knapp**).
+
+- 2002--2007. National Institutes of Health. \$2,484,295. *Amphibian disease dynamics in a fragmented landscape* (lead PI C. Briggs, co-PI **R. Knapp**).
+
+- 2019--2022. California Dept. of Fish and Wildlife. \$159,666. *Using frog translocations and reintroductions to recover frogs in the Rocky Basin Lakes* (lead PI **R. Knapp**).
+
+- 2018--2022. National Park Service. \$96,602. *Restoring genetic diversity of endangered mountain yellow-legged frogs* (lead PI **R. Knapp**).
+
+- 1996--2000. National Science Foundation. \$300,000. *Effects of exotic species eradication on the recovery of ecosystem structure and function* (lead PI **R. Knapp**).
+
+### PROFESSIONAL ACTIVITIES
+
+\vspace{2pt}
+\hrule
+\vspace{4pt}
+
+**Reviewer:** 35+ journals including *Ecology*, *Ecology Letters*, *Conservation Biology*, *PLOS One*, *Science*; grant proposals for NSF (Divisions of Environmental Biology and Integrative Organismal Systems), U.S. Fish and Wildlife Service species status assessments and recovery plans.
+
+**Scientific Advisor:** Technical Advisory Committee & Technical Team assisting USFWS, USFS, CDFW, and NPS in developing and updating a conservation strategy for the mountain yellow-legged frog (1999--present).
+
+**Graduate Committees:** Served on Ph.D. and Master's committees at UCSB, UC Davis, UC Riverside, and CSU San Francisco (7 students total).
+
+**Honors:** UCSB Dissertation Fellowship (1991); Phi Beta Kappa (1986).
