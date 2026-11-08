@@ -11,7 +11,7 @@ format:
     colorlinks: true
     include-in-header: 
       text: '\pagenumbering{arabic}'
-bibliography: references_knapp.bib
+bibliography: references_cv_knapp.bib
 csl: ecology_edited.csl
 nocite: |
   @*
@@ -131,7 +131,7 @@ roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesre
 
 **Reviewer**:
 
--   *Journals*: American Naturalist, Amphibia-Reptilia, Animal Behaviour, Animal Conservation, Behavioral Ecology, Biological Conservation, Bulletin of Marine Science, Canadian Journal of Fisheries and Aquatic Sciences, Conservation Biology, Conservation Physiology, Copeia, Diseases of Aquatic Organisms, Diversity and Distributions, Ecography, EcoHealth, Ecological Applications, Ecological Monographs, Ecology, Ecology and Evolution, Ecology Letters, Ecosphere, Ecosystems, Environmental Biology of Fishes, Freshwater Biology, Herpetological Conservation and Biology, Herpetologica, Herpetological Review, Journal of Animal Ecology, Journal of Applied Ecology, Journal of Fish Biology, Journal of Herpetology, Journal of Zoology, Limnology and Oceanography, North American Journal of Fisheries Management, New Zealand Journal of Marine and Freshwater Research, Oecologia, PeerJ, PLOS One, Science, Science of the Total Environment, Scientific Reports, Transactions of the American Fisheries Society.
+-   *Journals*: American Naturalist, Amphibia-Reptilia, Animal Behaviour, Animal Conservation, Behavioral Ecology, Biological Conservation, Bulletin of Marine Science, Canadian Journal of Fisheries and Aquatic Sciences, Conservation Biology, Conservation Physiology, Copeia, Current Biology, Diseases of Aquatic Organisms, Diversity and Distributions, Ecography, EcoHealth, Ecological Applications, Ecological Monographs, Ecology, Ecology and Evolution, Ecology Letters, Ecosphere, Ecosystems, Environmental Biology of Fishes, Freshwater Biology, Herpetological Conservation and Biology, Herpetologica, Herpetological Review, Journal of Animal Ecology, Journal of Applied Ecology, Journal of Fish Biology, Journal of Herpetology, Journal of Zoology, Limnology and Oceanography, North American Journal of Fisheries Management, New Zealand Journal of Marine and Freshwater Research, Oecologia, PeerJ, PLOS One, Science, Science of the Total Environment, Scientific Reports, Transactions of the American Fisheries Society.
 
 -   *National Science Foundation*: Grant proposals to the Division of Environmental Biology and Division of Integrative Organismal Systems.
 
@@ -371,6 +371,8 @@ roland.knapp@ucsb.edu | \href{https://mountainlakesresearch.com}{mountainlakesre
 
 \vspace{3pt}
 \hrule
+
+-   2026\. *Eradication of nonnative trout to restore mountain lake ecosystems: Examples from North America*. Keynote speaker. International Conference on the Conservation of High Alpine Lakes and Mires. Life Rescue Alpyr, Vielha, Spain. 
 
 -   2024\. *Endangered amphibians in the Anthropocene: multiple stressors, host evolution, and a rare recovery*. Dept. of Ecology, Evolution, and Marine Biology, University of California, Santa Barbara. 
 
